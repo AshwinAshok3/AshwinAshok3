@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshwinAshok3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m mostly Interested in the field of Quantum Computing , Data Science , CyberSecurity , Cyber Forensics
+- 🌱 I’m currently learning Data Science .
+- 💞️ I’m looking to collaborate and incorporate the use of my skills as wide as possible
 - 📫 How to reach me on linkedin [Ashwin Ashok]
 
 <!---
