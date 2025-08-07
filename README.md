@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m **Ashwin Ashok** (`@AshwinAshok3`), a passionate and
 
 
 ## 📁Overview
-I am a Data Scientist Intern and a passionate learner with a strong interest in the intersection of Quantum Computing and Artificial Intelligence. My work focuses on:
+Having a strong interest in the intersection of Quantum Computing and Artificial Intelligence. My work focuses on:
 - Classical ML, Deep Learning TensorFlow, and NLP
 - End-to-end ML pipelines, model deployment, and Azure AI services
 - Practical, well-documented projects with real-world applications
