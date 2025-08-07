@@ -2,23 +2,16 @@
 
 Welcome to my GitHub! I’m **Ashwin Ashok** (`@AshwinAshok3`), a passionate and persistent learner, currently working as a **Data Scientist Intern**.
 
-## 🔬 Who I Am
-- A data science enthusiast with a deep fascination for the fusion of **Quantum Computing** and **Artificial Intelligence**.
-- Constantly exploring how quantum algorithms can revolutionize classical machine learning models and improve real-world decision-making.
-- Dedicated to building scalable AI pipelines, researching practical implementations, and contributing to open-source projects.
 
-## 💡 Professional Interests
-- Classical Machine Learning and Statistical Modeling
-- Deep Learning with TensorFlow and PyTorch
-- Natural Language Processing (NLP) and Transformer Models
-- Data Visualization and End-to-End ML Pipelines
-- Azure Cloud Services and AI/ML Deployment
-
-## 📁 What You’ll Find Here
-- Practical ML notebooks and concept walkthroughs
-- End-to-end solutions for real-world datasets
-- Model deployment scripts and cloud-native tools
-- Thoughtful documentation and reproducible projects
+## 📁Overview
+I am a Data Scientist Intern and a passionate learner with a strong interest in the intersection of Quantum Computing and Artificial Intelligence. My work focuses on:
+- Classical ML, Deep Learning TensorFlow, and NLP
+- End-to-end ML pipelines, model deployment, and Azure AI services
+- Practical, well-documented projects with real-world applications
+  
+My GitHub features reproducible notebooks, deployment scripts, and contributions to open-source projects.
+- 📬 I am open to collaborative opportunities, internships, and full-time roles in AI/ML or quantum-focused applications.
+- 🔗 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ashwin-ashok-2826a3173/)
 
 ## 🎓 Certification Pathway (via SkillUpOnline)
 Over 11 months, I completed the **TechMaster Certificate Program in Artificial Intelligence with Data Science** under **SkillUpOnline**.
@@ -45,8 +38,3 @@ These certifications reflect not only subject mastery, but also my perseverance 
 ## 📘 In Progress
 - I also hold a certification in **Quantum Computing**, which I’ll be including soon.
 - I continue to explore quantum approaches to optimization, model tuning, and algorithmic complexity reduction.
-
-## 🤝 Let’s Connect
-- Connect on [LinkedIn](https://www.linkedin.com/in/ashwin-ashok-2826a3173/)
-- Feel free to explore my repositories, projects, and notebooks
-- Open to collaborative opportunities, internships, and full-time roles in AI/ML or quantum-focused applications
