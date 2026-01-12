@@ -1,11 +1,11 @@
 # 👨‍💻 Ashwin Ashok – GitHub Profile Overview
 
-Welcome to my GitHub! I’m **Ashwin Ashok** (`@AshwinAshok3`), a passionate and persistent learner, currently working as a **Data Scientist Intern**.
+Welcome to my GitHub! I’m **Ashwin Ashok** (`@AshwinAshok3`), a passionate and persistent learner, currently working as a **AI Trainer** @ Keltron Virtual Reality Lab.
 
 
 ## 📁Overview
 Having a strong interest in the intersection of Quantum Computing and Artificial Intelligence. My work focuses on:
-- Classical ML, Deep Learning TensorFlow, and NLP
+- Traditional ML, Deep Learning with TensorFlow, NLP, RAG with LangChain, Computer Vision with Opencv, Insightface along with mediapipe
 - End-to-end ML pipelines, model deployment, and Azure AI services
 - Practical, well-documented projects with real-world applications
   
